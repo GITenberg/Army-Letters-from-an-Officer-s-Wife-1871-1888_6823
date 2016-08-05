@@ -1,0 +1,28 @@
+_repo: Army-Letters-from-an-Officer-s-Wife-1871-1888_6823
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roe, Frances Marie Antoinette Mack
+    alias: Roe, Frances M. A. (Frances Marie Antoinette)
+    gutenberg_agent_id: '2209'
+    url: http://www.gutenberg.org/2009/agents/2209
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcc 'F590.3'
+- !lcsh 'Roe, Frances Marie Antoinette Mack'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Army wives -- West (U.S.) -- Correspondence'
+- !lcsh 'West (U.S.) -- Biography'
+- !lcsh 'United States. Army -- Military life'
+- GITenberg
+title: Army Letters from an Officer's Wife, 1871-1888
+url: http://www.gutenberg.org/ebooks/6823
